@@ -3,6 +3,7 @@
 # (str) Title of your application
 title = My work
 
+# no comments
 # (str) Package name
 package.name = myworkapp001
 
